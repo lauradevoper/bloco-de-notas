@@ -1,0 +1,17 @@
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\bin\Debug\net6.0-windows\Meu bloco de Notas.exe
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\bin\Debug\net6.0-windows\Meu bloco de Notas.deps.json
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\bin\Debug\net6.0-windows\Meu bloco de Notas.runtimeconfig.json
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\bin\Debug\net6.0-windows\Meu bloco de Notas.dll
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\bin\Debug\net6.0-windows\ref\Meu bloco de Notas.dll
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\bin\Debug\net6.0-windows\Meu bloco de Notas.pdb
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.csproj.AssemblyReference.cache
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu_bloco_de_Notas.frmInicio.resources
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.csproj.GenerateResource.cache
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.AssemblyInfoInputs.cache
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.AssemblyInfo.cs
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.csproj.CoreCompileInputs.cache
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.dll
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\ref\Meu bloco de Notas.dll
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.pdb
+C:\cSharpTreino\Meu bloco de Notas\Meu bloco de Notas\obj\Debug\net6.0-windows\Meu bloco de Notas.genruntimeconfig.cache
